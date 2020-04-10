@@ -1,2 +1,2 @@
 # COVID19-provinces
-COVID-19 pandemic by provinces: have we past the peak
+COVID-19 pandemic by provinces: have we flattened the curve?
